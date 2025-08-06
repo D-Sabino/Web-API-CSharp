@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "PrimeiraAPI.Controllers.EmployeeController",
+    "Method": "Add",
+    "RelativePath": "api/v1/employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeView",
+        "Type": "PrimeiraAPI.ViewModel.EmployeeViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PrimeiraAPI.Controllers.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/v1/employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "PrimeiraAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

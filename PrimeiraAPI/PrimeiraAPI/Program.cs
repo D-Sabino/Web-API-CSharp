@@ -1,11 +1,28 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using PrimeiraAPI.Infraestrutura;
+using PrimeiraAPI.Model;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "PrimeiraAPI",
+        Version = "v1"
+    });
+});
+
+builder.Services.AddDbContext<ConnectionContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddTransient<IEmployeeRepository, EmployeeRepository>();
 
 var app = builder.Build();
 
