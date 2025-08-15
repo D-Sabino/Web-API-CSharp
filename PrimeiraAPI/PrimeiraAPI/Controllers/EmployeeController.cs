@@ -54,6 +54,7 @@ namespace PrimeiraAPI.Controllers
         {
             //_logger.Log(LogLevel.Error, "Mensagem de log, de EmployeeController metodo Get.");
             _logger.LogInformation("Mensagem de log, EmployeeController metodo Get executado.");
+            //throw new Exception("Erro de teste");
 
             var employees = _employeeRepository.Get(pageNumber, pageQuantity);
             return Ok(employees);
