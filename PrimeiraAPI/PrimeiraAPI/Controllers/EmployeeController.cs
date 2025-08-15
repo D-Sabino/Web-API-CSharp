@@ -10,10 +10,12 @@ namespace PrimeiraAPI.Controllers
     public class EmployeeController : ControllerBase
     {
         private readonly IEmployeeRepository _employeeRepository;
+        private readonly ILogger<EmployeeController> _logger;
 
-        public EmployeeController(IEmployeeRepository employeeRepository)
+        public EmployeeController(IEmployeeRepository employeeRepository, ILogger<EmployeeController> logger)
         {
             _employeeRepository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
         [Authorize]
@@ -50,6 +52,9 @@ namespace PrimeiraAPI.Controllers
         [HttpGet]
         public IActionResult Get(int pageNumber, int pageQuantity)
         {
+            //_logger.Log(LogLevel.Error, "Mensagem de log, de EmployeeController metodo Get.");
+            _logger.LogInformation("Mensagem de log, EmployeeController metodo Get executado.");
+
             var employees = _employeeRepository.Get(pageNumber, pageQuantity);
             return Ok(employees);
         }

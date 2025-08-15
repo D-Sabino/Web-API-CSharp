@@ -50,9 +50,9 @@
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "PrimeiraAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDAAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T23:18:33.033Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\EmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:41:39.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:41:39.595Z"
             },
             {
               "$type": "Document",
