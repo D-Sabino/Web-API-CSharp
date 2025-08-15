@@ -7,23 +7,16 @@
       "RelativeMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\projetos\\web-api-csharp\\primeiraapi\\primeiraapi\\infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\projetos\\web-api-csharp\\primeiraapi\\primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felil\\AppData\\Local\\SourceServer\\62334c618fa6798b82dbc30527bcfbd90d7e5a895a9b3a09320a9fd57bbf4532\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\projetos\\web-api-csharp\\primeiraapi\\primeiraapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\projetos\\web-api-csharp\\primeiraapi\\primeiraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\projetos\\web-api-csharp\\primeiraapi\\primeiraapi\\infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\infraestrutura\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B403E864-4AC5-4E68-8A76-FDC2EA018146}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\projetos\\web-api-csharp\\primeiraapi\\primeiraapi\\primeiraapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -49,34 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "PrimeiraAPI\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Services\\TokenService.cs",
-              "RelativeToolTip": "PrimeiraAPI\\Services\\TokenService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:46:16.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\felil\\AppData\\Local\\SourceServer\\62334c618fa6798b82dbc30527bcfbd90d7e5a895a9b3a09320a9fd57bbf4532\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\felil\\AppData\\Local\\SourceServer\\62334c618fa6798b82dbc30527bcfbd90d7e5a895a9b3a09320a9fd57bbf4532\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\felil\\AppData\\Local\\SourceServer\\62334c618fa6798b82dbc30527bcfbd90d7e5a895a9b3a09320a9fd57bbf4532\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\..\\Users\\felil\\AppData\\Local\\SourceServer\\62334c618fa6798b82dbc30527bcfbd90d7e5a895a9b3a09320a9fd57bbf4532\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs [Somente Leitura]",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwA0AAAAIAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:43:34.741Z",
-              "EditorCaption": " [Somente Leitura]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -85,27 +52,27 @@
               "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "PrimeiraAPI\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:49:32.78Z",
+              "WhenOpened": "2025-08-14T23:18:33.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Infraestrutura\\EmployeeRepository.cs",
               "ToolTip": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\EmployeeRepository.cs",
               "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T09:41:39.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Program.cs",
@@ -113,12 +80,11 @@
               "RelativeToolTip": "PrimeiraAPI\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAArwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:46:24.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:46:24.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\appsettings.json",
               "RelativeDocumentMoniker": "PrimeiraAPI\\appsettings.json",
@@ -130,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\AuthController.cs",
@@ -138,12 +104,11 @@
               "RelativeToolTip": "PrimeiraAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:07:23.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:07:23.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "PrimeiraAPI.csproj",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
               "RelativeDocumentMoniker": "PrimeiraAPI\\PrimeiraAPI.csproj",
@@ -151,12 +116,11 @@
               "RelativeToolTip": "PrimeiraAPI\\PrimeiraAPI.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-07T11:09:18.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T11:09:18.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ConnectionContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
@@ -164,12 +128,11 @@
               "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:23:09.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T09:23:09.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "EmployeeViewModel.cs",
               "DocumentMoniker": "C:\\Projetos\\Web-API-CSharp\\PrimeiraAPI\\PrimeiraAPI\\ViewModel\\EmployeeViewModel.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\ViewModel\\EmployeeViewModel.cs",

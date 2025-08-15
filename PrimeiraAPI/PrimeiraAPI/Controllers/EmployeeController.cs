@@ -46,11 +46,11 @@ namespace PrimeiraAPI.Controllers
             return File(photoBytes, "image/png");
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get(int pageNumber, int pageQuantity)
         {
-            var employees = _employeeRepository.Get();
+            var employees = _employeeRepository.Get(pageNumber, pageQuantity);
             return Ok(employees);
         }
     }
